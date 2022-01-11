@@ -9,3 +9,5 @@ Resources used:
 - [Haskell Tutorial Youtube Video by Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 
 ## Contents
+
+- [00-introduction](00-introduction/README.md)
